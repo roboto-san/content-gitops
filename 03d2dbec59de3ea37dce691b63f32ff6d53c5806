@@ -1,0 +1,1 @@
+{"jobID":"8b4fb981-e1ab-2621-1e11-133c91b39924","spec":{"type":"policy","cause":{"Message":"","User":"Rob Moore \u003campspud@outlook.com\u003e"},"spec":{"lamanifest:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
